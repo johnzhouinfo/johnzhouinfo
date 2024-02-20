@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm John Zhou</h1>
 <h3 align="center">A small programmer in Vivachek</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnzhouinfo&label=Profile%20views&color=0e75b6&style=flat" alt="johnzhouinfo" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=johnzhouinfo&label=Profile%20views&color=0e75b6&style=flat" alt="johnzhouinfo" />
+<img src="https://img.shields.io/endpoint?url=https://stats.zhous.cloud/api/compat/shields/v1/zhouscloud/interval:30_days&label=last 30d">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
